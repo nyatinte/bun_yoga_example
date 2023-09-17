@@ -1,0 +1,20 @@
+{
+  "name": "bun_yoga_example",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "20.6.2",
+    "bun-types": "latest",
+    "cross-env": "7.0.3",
+    "ts-node": "10.9.1",
+    "ts-node-dev": "2.0.0",
+    "typescript": "5.2.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "graphql": "^16.8.0",
+    "graphql-yoga": "^4.0.4"
+  }
+}
